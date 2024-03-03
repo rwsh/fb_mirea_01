@@ -1,1 +1,2 @@
-# fb_mirea_01
+# Frontend & Backend разработка
+Лекция 01 "Основы ReactJS"
